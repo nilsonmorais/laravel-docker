@@ -1,3 +1,5 @@
 # laravel-docker
 
-$ docker build -t "laravel:r1" .
+```
+docker build -t "laravel:r1" .
+```
